@@ -1,0 +1,28 @@
+/*   Xavier Grunitzky
+     music.css
+     INFO1311.WW
+     Olberding
+     5/3/2023
+*/
+
+body {
+    font-size: 16px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(134, 210, 143)
+}
+
+h1 {
+    text-shadow: 3px 3px 5px rgb(70, 70, 145) 
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+legend {font-weight: bold;}
+
+fieldset {
+    border: 3px ridge black;
+    padding: 7px
+}
+

@@ -1,0 +1,49 @@
+/*   Xavier Grunitzky
+     assignment8.css
+     INFO1311.WW
+     Olberding
+     5/9/23
+*/
+nav {
+     background-color: rgb(34, 34, 78);
+     padding:8px;
+     
+}
+nav ul a {list-style-type: none;}
+
+body{
+    margin: 0;
+     background-color: rgb(168, 197, 223);
+}
+ header{
+     background-color: rgb(107, 202, 231);
+     padding: 15px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-shadow: 2px 2px 2px black;
+     color: rgb(73, 78, 183);
+     text-align: center;
+ }
+nav a:link {color: white; 
+}
+nav a:visited {color: #BACBE0;
+}
+nav ul {
+     list-style-type: none;
+}
+nav li {display: inline;
+padding:20px;
+}
+main {
+     font-size: large;
+     font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer {
+     font-style:italic;
+     font-size: .8em;
+     line-height: 4px;
+     color: black;
+     text-align: center;
+     
+     
+}

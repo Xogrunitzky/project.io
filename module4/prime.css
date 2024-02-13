@@ -1,0 +1,53 @@
+/* Xavier Grunitzky
+   prime_home.html
+   INFO1311.WW
+   Olberding
+   4/7/23
+*/
+
+body {
+    background-color: #003366;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    min-width: 800px;
+
+}
+header {
+    background-image: url(primelogo.gif);
+    height: 120px;
+    background-repeat: no-repeat;
+    background-color: #BACBE0;
+    padding-top: 1px;
+}
+h1 {
+    color: #003366;
+    font-size: 3em;
+    text-shadow: 2px 2px 5px black; 
+    padding-left: 100px;
+
+}
+nav a:link {color: white;}
+nav a:visited {color: #BACBE0;}
+nav ul {list-style-type: none;}
+nav li {display: inline; padding-right: 30px;}
+
+
+main {
+    background-color: white;
+    padding: 20px 50px 20px 50px;
+}
+footer {
+    font-size: .7em;
+    text-align: center;
+    border-top: 1px solid #003366;
+    background-color: #BACBE0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.company {
+    font-style: italic;
+    font-weight: bold;
+}
+.copyright {
+    font-style: italic;
+}

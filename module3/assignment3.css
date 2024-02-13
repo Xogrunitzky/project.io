@@ -1,0 +1,50 @@
+/* Xavier Grunitzky 
+   assignment.css
+   INFO1311.WW
+   Olberding 
+   3/29/23
+*/
+
+body {
+    background-color: #666666;
+    background-image: linear-gradient(to bottom, #ffffff, #666666);
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+#container {
+    width: 960px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: 5px 5px 5px #1e1e1e;
+    border-radius: 15px;
+}
+header {
+    background-image: url(background\ image.jpg);
+    background-repeat: no-repeat;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+h1 {
+    font-family: Impact,sans-serif;
+    font-size: 4em;
+    padding-left: 150px;
+    color: hsla(0, 0%, 0%, 0.2);
+
+}
+h2 {
+    color: rgb(14, 59, 14);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.photo{
+    float: right;
+}
+footer{
+    border-top: solid #666666;
+    text-align: right;
+    font-size: .8em;
+    font-style: italic;
+}
