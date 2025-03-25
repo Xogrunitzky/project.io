@@ -35,7 +35,7 @@ nav :link{
     color: rgb(185, 55, 55);
 }
 nav :visited{
-    color: rgb(48, 119, 173);
+   color:#4285F4;
 }
 nav :hover{
     color:blue
