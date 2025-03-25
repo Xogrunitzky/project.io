@@ -32,7 +32,7 @@ nav {
    display: block;
 }
 nav :link{
-    color: rgb(185, 55, 55);
+    color:#4285F4;
 }
 nav :visited{
    color:#4285F4;
