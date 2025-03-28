@@ -32,13 +32,13 @@ nav {
    display: block;
 }
 nav :link{
-    color:#4285F4;
+    color:#003366;
 }
 nav :visited{
-   color:#4285F4;
+   color: #003366;
 }
 nav :hover{
-    color:green;
+    color:red;
 }
 
 nav ul {
